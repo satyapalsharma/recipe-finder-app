@@ -1,0 +1,17 @@
+/* 
+ * Global Styles for Recipe Finder App
+ * 
+ * This file defines the base styles, typography, color palette,
+ * and overall layout for the application.
+ * 
+ * Author: Your Name/Company
+ * Date: 2023-10-27
+ */
+
+/* --- CSS Variables for Theming --- */
+:root {
+  /* Colors */
+  --primary-color: #FF6B6B; /* Coral Red - for accents, buttons */
+  --primary-hover-color: #E65C5C; /* Darker primary for hover states */
+  --secondary-color: #4ECDC4; /* Teal - for secondary accents, links */
+  --secondary-hover-color:
